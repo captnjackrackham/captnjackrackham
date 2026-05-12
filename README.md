@@ -6,6 +6,8 @@ This repository is for educational and defensive purposes only. Security materia
 
 ## Seraphim
 
+A cybersecurity ontology (in progress).
+
 ```mermaid
   %%{init: {"theme": "base", "themeVariables": {"fontSize": "13px"}}}%%
   graph TB
