@@ -8,3 +8,4 @@ This repository is for educational and defensive purposes only. Security materia
 
 A cybersecurity ontology (in progress).
 
+![image](media/ontology_square.png)
