@@ -8,6 +8,8 @@ This repository is for educational and defensive purposes only. Security materia
 
 A cybersecurity ontology (in progress).
 
+<!-- graph for thiefs or slow people -->
+
 ```mermaid
   %%{init: {"theme": "base", "themeVariables": {"fontSize": "13px"}}}%%
   graph TB
@@ -168,5 +170,4 @@ A cybersecurity ontology (in progress).
       class OWASPW,OWASPA,OWASPM,OWASPL,OWASPAG,OWASPMCP,OWASPML owasp
       class CVE,CPE,CVSS,EDB vuln
       class CWRAF,PLOT4AI,MITAIRR,AIID risk
-
 ```
