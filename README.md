@@ -11,6 +11,10 @@ All material will be subject to publication on [arXiv](https://arxiv.org/) prior
 
 This repository is for educational and defensive purposes only. Security material should be tested only in authorized environments, isolated labs, or approved training platforms.
 
+## About me
+
+IT and security professionnal, I am also a Grad Student working and researching on AI Security governance and automatisation.
+
 ## Seraphim
 
 A cybersecurity ontology (in progress).
