@@ -4,7 +4,7 @@ I am an IT and security professional and graduate researcher specializing in the
 # Content
 All research materials are published first on [arXiv](https://arxiv.org/) before being made available on GitHub. Research contributions span the following domains:
 
-- **cs.CR **(_Cryptography and Security_): Primary research area, with emphasis on automated security mechanisms
+- **cs.CR**(_Cryptography and Security_): Primary research area, with emphasis on automated security mechanisms
 - **cs.AI** (_Artificial Intelligence_): Focused on AI governance, risk management, and policy frameworks
 - **cs.CY** (_Computers and Society_): Applicable to work addressing the legal, ethical, and societal dimensions of AI governance
 
